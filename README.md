@@ -1,2 +1,2 @@
 # Keras_basic
-some basic keras practice
+之前做的一些代码练习,用于日后回顾.
